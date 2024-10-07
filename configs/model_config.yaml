@@ -1,0 +1,7 @@
+
+isolation_forest:
+  contamination: 0.05
+  random_state: 42
+
+knn_imputation:
+  n_neighbors: 3
